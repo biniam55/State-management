@@ -1,0 +1,19 @@
+.navc{
+    background-color: cadetblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.cc{
+    margin-right: 150px;
+}
+.namef{
+    margin-right:50px ;
+}
+.addmovie{
+    margin-top: 10px;
+}
+.pricef{
+    margin-right: 10px;
+}
